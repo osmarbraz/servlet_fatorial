@@ -1,4 +1,4 @@
-# Cálculo fatorial usando Java Servlet.
+# Programa de cálculo fatorial usando Java Servlet.
 
 - Programa WEB usando Java Servlet para calcular o fatorial.
 - O servlet "ServletFatorial" calcula o fatorial de 1 até 10.
