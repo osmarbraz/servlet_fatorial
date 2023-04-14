@@ -1,5 +1,3 @@
-
-
 import java.io.IOException;
 import java.io.PrintWriter;
 import javax.servlet.ServletException;
@@ -12,16 +10,8 @@ import javax.servlet.http.HttpServletResponse;
  *
  * @author osmar
  */
-@WebServlet(name = "ServletFatorial", urlPatterns = {"/ServletFatorial"})
 public class ServletFatorial extends HttpServlet {
 
-    /**
-     *
-     * @param request
-     * @param response
-     * @throws ServletException
-     * @throws IOException
-     */
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
